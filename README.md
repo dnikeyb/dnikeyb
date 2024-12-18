@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am dnikeyb from Flensburg and I like coding as a hobby. My pronouns are He/Him and i am currently studying at school.
 <!--
 **dnikeyb/dnikeyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
